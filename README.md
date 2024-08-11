@@ -23,5 +23,5 @@ Create and Use Objects: In the Main method of the Program class, instances of th
 ![image](https://github.com/user-attachments/assets/56f85093-65ca-4066-a994-267d71659496)
 
 ### Requirements and Technologies used
-C# Compiler (e.g., .NET SDK)
+C# Compiler (e.g., .NET SDK),
 Basic understanding of object-oriented programming and abstraction
