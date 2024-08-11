@@ -9,7 +9,9 @@ Abstract Base Class (Company): Defines common attributes such as Name, Surname, 
 ### Derived Classes:
 
 SoftwareDeveloper: Represents a software developer with a specific implementation of the Mission() method.
+
 ProjectManager: Represents a project manager with its own implementation of the Mission() method.
+
 SalesManager: Represents a sales manager and implements the Mission() method accordingly.
 
 ## How It Works
